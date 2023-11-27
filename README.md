@@ -1,5 +1,7 @@
 # Photos Angular App
 
+A single page application that has a minimal design, for fetching and rendering random photos from the Internet.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.9.
 
 ## Prerequisites
